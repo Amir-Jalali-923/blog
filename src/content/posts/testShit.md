@@ -1,0 +1,12 @@
+---
+title: testShit
+published: 2025-06-02
+description: 'this a test post'
+image: ''
+tags: [philo]
+category: 'philo'
+draft: false 
+lang: 'en'
+---
+
+# hello
