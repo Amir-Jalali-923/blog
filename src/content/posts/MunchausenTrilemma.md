@@ -3,7 +3,7 @@ title: Münchhausen Trilemma
 published: 2025-06-02
 description: 'Can anything really be proved?'
 image: ''
-tags: [Epistomolgy, Knowledge]
+tags: [Epistomolgy, Knowledge, Draft]
 category: 'Philosophy'
 draft: false 
 lang: 'en'
@@ -73,6 +73,16 @@ According to Hans, any path of reasoning that you may take to prove a statement 
 >What if your holy book is wrong?
 >
 >-No. My holy book is always right.
+
+So as you see, there is no way to prove anything without either falling into a infinitly deep questioning hole, using the statement itself prove itself, or simply assuming some statements to be true by default.
+
+Yep, hate to break it to you but we can never know any absolute truth and this trilemma is only one of many ways to prove it(how ironic). However, eventhough we can never know if somthing is __absolutly__ true, we can know if something is true to a certian degree to rely on. how you may ask, by (kind of) permitting on of the fallacies in the trilemma.
+
+## Coherentism
+
+## Foundationalism
+
+## Infinitism
 
 
 [^1]: later
