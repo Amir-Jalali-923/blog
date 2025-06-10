@@ -1,9 +1,10 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hello there, I'm Amir and this is (kind of) my personal blog.
 
-::github{repo="saicaca/fuwari"}
+I love learning new stuff but unfortunately, I have an incredibly shitty memory. So I thought maybe if I write these stuff, it would be harder to forget them and if I ever do, there will be an easy way to relearn. With that being said, the main purpose of this blog is **not** to teach any stuff, but to help me to remember, retain and share the things that I learn and stuff that I think about.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+This is a static website so it's not possible to have comments under each post, but if you have somthing to say about any of the posts, or if want to talk about anything in general, you can message my [telegram](https://t.me/le_gourba).
+
+:::warning[DISCLAIMER]
+I'm not an expert in any of the topics that I cover and there is a high chance that I'm wrong about some stuff that I write, don't take my word for it.
+:::
