@@ -3,7 +3,7 @@ title: Münchhausen Trilemma
 published: 2025-06-02
 description: 'Can anything really be proved?'
 image: ''
-tags: [Epistomolgy, Knowledge, Draft]
+tags: [Epistomolgy, Knowledge]
 category: 'Philosophy'
 draft: false 
 lang: 'en'
@@ -29,7 +29,7 @@ lang: 'en'
 >
 >-Shhh, we don't question god
 
-That conversation is most likely familiar to you. we're all born as curious skeptics but we tend to gradually lose that spirit somehow, I wonder why. Anyways tho, have you ever wondered what happens if we just don't listen to our parents and keep asking “why?”? well, many people did actually[^1] and one of them was the German philosopher Hans Albert.
+That conversation is most likely familiar to you. we're all born as curious skeptics but we tend to gradually lose that spirit somehow, I wonder why. Anyways tho, have you ever wondered what happens if we just don't listen to our parents and keep asking “why?”? well, many people did actually, and one of them was the German philosopher Hans Albert.
 
 # Münchhausen Trilemma
 According to Hans, any path of reasoning that you may take to prove a statement will inevitably end in one of these three ways:
@@ -74,16 +74,22 @@ According to Hans, any path of reasoning that you may take to prove a statement 
 >
 >-No. My holy book is always right.
 
-So as you see, there is no way to prove anything without either falling into a infinitly deep questioning hole, using the statement itself prove itself, or simply assuming some statements to be true by default.
+So as you see, there is no way to prove anything without either falling into an infinitly deep questioning hole, using the statement itself prove itself, or simply assuming some statements to be true by default.
 
-Yep, hate to break it to you but we can never know any absolute truth and this trilemma is only one of many ways to prove it(how ironic). However, eventhough we can never know if somthing is __absolutly__ true, we can know if something is true to a certian degree to rely on. how you may ask, by (kind of) permitting on of the fallacies in the trilemma.
+Yep, hate to break it to you but we can never know any absolute truth and this trilemma is only one of many ways to prove it(how ironic). However, eventhough we can never know if somthing is __absolutly__ true, we can know if something is true to a certian degree to rely on. “How?” you may ask, by (kind of) permitting on of the fallacies in the trilemma.
 
 ## Coherentism
 
+This theory (again, kind of) supports the circular arguments. In coherentism, beliefs can be justified if they cohere with some other beliefs that are in the same set. In simple terms, it's like creating a web of beliefs and until these beliefs are mutually supported by one another and they dont contradict each other, they can be thought as true.
+
 ## Foundationalism
+
+The most popular and also my favorite theory, in foundationalism it is permittable to an extent to hold some statements as foundationally true, that is, axioms. In its pure form, there exists only two axioms in foundationalism:
+1. All contradictions are false.
+2. All toutalogies are true.
 
 ## Infinitism
 
+This theory is a rather recent one, it simply argues that reasoning can go to infinity an there is no problem with that.
 
-[^1]: later
 
