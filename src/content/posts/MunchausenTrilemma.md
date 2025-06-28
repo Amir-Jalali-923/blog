@@ -86,7 +86,7 @@ This theory (again, kind of) supports the circular arguments. In coherentism, be
 
 The most popular and also my favorite theory, in foundationalism it is permittable to an extent to hold some statements as foundationally true, that is, axioms. In its pure form, there exists only two axioms in foundationalism:
 1. All contradictions are false.
-2. All toutalogies are true.
+2. All toutologies are true.
 
 ## Infinitism
 
