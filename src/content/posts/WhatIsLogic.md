@@ -3,7 +3,7 @@ title: What is Logic?
 published: 2025-06-29
 description: 'Exploring what logic is, what it is not and what it can do.'
 image: ''
-tags: [Logic]
+tags: [Logic, Epistemology]
 category: 'Philosophy'
 draft: false 
 lang: 'en'
