@@ -15,7 +15,7 @@ The question above (also known as the **paradox of stone**) is probably one of t
 
 ## What is Omnipotence?
 
-Imagine you're walking to you're job as a restaurant manager when some person stops you and tells you that they are a pianist and you should hire them in your restaurant. You think about it a little, hiring a pianist would indeed increase the prestige of your restaurant and consequently, more people will come to your place and they'll be willing to spend more money on your services, therefore, you would make more money. So based on all the advantages that is will bring, you decide to hire that pianist, right? Well of course not! What if he   lying and he has absolutely no idea on how to play the piano? Like any normal person with common sense, you decide to put that "pianist" into the test to figure out if he really deserves the title "pianist". How should you do it? It's pretty straight forward actually, take out a piece of paper and write "Things that a pianist should be able to do" on top of it, then proceed to fill in the list, for example:
+Imagine you're walking to you're job as a restaurant manager when someone stops you and tells you that they are a pianist and you should hire them in your restaurant. You think about it a little, hiring a pianist would indeed increase the prestige of your restaurant and consequently, more people will come to your place and they'll be willing to spend more money on your services, therefore, you would make more money. So based on all the advantages that is will bring, you decide to hire that pianist, right? Well of course not! What if he is lying and he has absolutely no idea on how to play the piano? Like any normal person with common sense, you decide to put that "pianist" into a test to figure out if they really deserve the title "pianist". How should you do it? It's pretty straight forward actually, take out a piece of paper and write "Things that a pianist should be able to do" on top of it, then proceed to fill in the list, for example:
 
 1. Sight read.
 2. Play scales and arpeggios with precision.
@@ -44,7 +44,7 @@ You are welcome to totally obliterate this idea by just using simple logic and s
 
 For example, Could god create a square that is a triangle? Or could he make a married bachelor? Clearly no, he can't, and therefore no omnipotent being can exist with this definition.
 
-If you're still not convinced that god can't do these things here is the proof for the same examples:
+If you're still not convinced that god can't do these things here is the logical proofs for those same examples:
 
 1. A shape has a static number of sides.
 2. Squares and triangles are shapes.
@@ -75,7 +75,7 @@ This seems like a pretty good definition. After all, now we can't challenge god 
 
 ### Objections
 
-Although the current definition is much better that the previous one, it still fails to account for the stone paradox. Simply put, It is actually logically possible to create a rock that is unliftable by it's own maker, you don't believe me? Put your shoes on, go out and take a box with yourself, and then start collecting rocks in the box until the it's so heavy that you can't lift it. Since you, as a humble human being can accomplish this task, it is indeed logically possible.
+Although the current definition is much better than the previous one, it still fails to account for the stone paradox. Simply put, It is actually logically possible to create a rock that is unliftable by it's own maker, you don't believe me? Put your shoes on, go out and take a box with yourself, and then start collecting rocks in the box until it's so heavy that you can't lift it. Since you, as a humble human being can accomplish this task, it is indeed logically possible.
 
 the theistic response is usually something along the lines of:
 
@@ -89,7 +89,7 @@ In a nutshell, Everything in the universe is omnipotence because nothing can do 
 
 ## Definition III
 
-We had enough of incoherent gibberish, let's make it actually work this time.
+We had enough of incoherent gibberish, so let's make it actually work this time:
 
 > The capacity to create, destroy, and rearrange matter and energy in accordance with one's own desires.
 
@@ -97,7 +97,7 @@ There you have it. Or maybe even something that would make theists happy:
 
 >More powerful than any being that exists.
 
-This are indeed very different definitions, but our main goal was to define omnipotence in a way that is coherent and logically consistent, and seems like we achieved it. Good job.
+These are indeed very different definitions, but our main goal was to define omnipotence in a way that is coherent and logically consistent, and it seems like we've achieved it. Good job.
 
 ## Appendix
 

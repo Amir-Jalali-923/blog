@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
 		},
 	},
 	toc: {
-		enable: true, // Display the table of contents on the right side of the post
+		enable: false, // Display the table of contents on the right side of the post
 		depth: 3, // Maximum heading depth to show in the table, from 1 to 3
 	},
 	favicon: [
@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/julia-kadel-a8GewfTgpys-unsplash.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Amir Jalali",
+	name: "Amir H. Jalali",
 	bio: "This is a personal blog, not an encyclopedia",
 	links: [
 		{
