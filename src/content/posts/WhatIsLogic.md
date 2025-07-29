@@ -169,5 +169,5 @@ So, what is logic? it's a formal language coupled with a deductive system and se
 
 
 
-Thanks for Reading.
+Thanks for reading.
 
